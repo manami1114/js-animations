@@ -30,7 +30,7 @@ ul {
   margin: 0 0 10px 0;
 }
 
-.list .list-item .list-content.active {
+.list .list-item.active .list-content {
   max-height: 500px;
 }
 
